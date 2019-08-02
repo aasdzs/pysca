@@ -15,7 +15,7 @@
  * 분석 예제 코드 실행 및 결과 확인
    - `python attackaessbox.py`
    ![attack](https://github.com/aasdzs/pysca/blob/master/captures/03_attack_sbox.PNG?raw=true)
-   - 공격 결과 plot 확인
+   - 공격 결과 plot 확인  
    ![plot](https://github.com/aasdzs/pysca/blob/master/captures/04_attack_sbox_plot.PNG?raw=true)
 
 # Linux 설치
